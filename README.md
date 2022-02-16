@@ -9,7 +9,7 @@ View Demo👇: <br />
 
 
 [![home](https://www.linkpicture.com/q/home_5.png)](https://www.linkpicture.com/view.php?img=LPic620cc2b1061191090257098)
-[![intro](https://www.linkpicture.com/q/intro.png)](https://www.linkpicture.com/view.php?img=LPic620cc2e6b9725989198789)
+
 [![skills](https://www.linkpicture.com/q/sk-ills.png)](https://www.linkpicture.com/view.php?img=LPic620cc30a440441430533406)
 
 
