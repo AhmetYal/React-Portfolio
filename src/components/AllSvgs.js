@@ -65,8 +65,8 @@ export const Medium = (props) => {
       data-icon="medium"
       className="prefix__svg-inline--fa prefix__fa-youtube prefix__fa-w-18"
       xmlns="http://www.w3.org/2000/svg"
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       {...props}
     >
       <path
