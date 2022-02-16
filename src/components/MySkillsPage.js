@@ -103,7 +103,7 @@ const MySkillsPage = () => {
           <Description>
             <strong>Tools</strong>
 
-            <p>VS, Slack, etc.</p>
+            <p>VS, Postman, etc.</p>
           </Description>
         </Main>
         <Main>

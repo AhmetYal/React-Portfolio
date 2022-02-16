@@ -1,51 +1,77 @@
 // work data
 
 export const Work = [
-  // {
-  //     id:1,
-  //     name:"Agency Landing Page",
-  //     description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-  //     tags:["react","gsap","styledComponents"],
-  //     demo:"https://agency-website-eta.vercel.app/",
-  //     github:"https://github.com/codebucks27/Agency-website"
-  // },
-  // {
-  //     id:2,
-  //     name:"Job listing website",
-  //     description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-  //     tags:["react","sass"],
-  //     demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-  //     github:"https://github.com/codebucks27/react-job-listing-website"
-  // },
-  // {
-  //     id:3,
-  //     name:"Dev.to Clone",
-  //     description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-  //     tags:["react","api","sass"],
-  //     demo:"http://devto-clone-codebucks27.vercel.app/",
-  //     github:"https://github.com/codebucks27/devto-clone"
-  // },
-  // {
-  //     id:4,
-  //     name:"Sidebar Menu",
-  //     description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-  //     tags:["react","styledComponents","react-router"],
-  //     demo:"https://react-sidebar.vercel.app/",
-  //     github:"https://github.com/codebucks27/react-sidebar"
-  // },{
-  //     id:5,
-  //     name:"Todo App(React + Redux)",
-  //     description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-  //     tags:["react","redux","framer-motion"],
-  //     demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-  //     github:"https://github.com/codebucks27/React-Redux-Todo-App"
-  // },
-  // {
-  //     id:6,
-  //     name:"Responsive Navigation Menu",
-  //     description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-  //     tags:["react","react-router","css"],
-  //     demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-  //     github:"https://github.com/codebucks27/React-responsive-navbar"
-  // },
+  {
+    id: 1,
+    name: "Getir Clone Page",
+    description: "It is a React project of Getir's homepage with tailwindcss.",
+    tags: ["react", "tailwindcss"],
+    demo: "https://epic-stonebraker-c7a63e.netlify.app/",
+    github: "https://github.com/AhmetYal/getir-clone",
+  },
+  {
+    id: 2,
+    name: "Hangman",
+    description: "A famous Hangman game prototype build in ReactJS. ",
+    tags: ["react", "css"],
+    demo: "https://fervent-ramanujan-15a069.netlify.app/",
+    github: "https://github.com/AhmetYal/hangman",
+  },
+  {
+    id: 3,
+    name: "Image Gallery App",
+    description: "An image search app from an API with using ReactJS.",
+    tags: ["react", "api", "css"],
+    demo: "https://relaxed-davinci-f84363.netlify.app/",
+    github: "https://github.com/AhmetYal/image-gallery",
+  },
+  {
+    id: 4,
+    name: "Breaking Bad Quote App",
+    description:
+      "A famous TV series Breaking Bad's characters and famous quotes from API build using ReactJS.",
+    tags: ["react", "api", "react-router"],
+    demo: "https://upbeat-bose-aba06a.netlify.app/",
+    github: "https://github.com/AhmetYal/bbquote",
+  },
+  {
+    id: 5,
+    name: "Expence Tracker",
+    description: "An Expence Tracker build using React.",
+    tags: ["react", "react-hooks", "css"],
+    demo: "https://github.com/AhmetYal/expence-tracker",
+    github: "https://github.com/AhmetYal/expence-tracker",
+  },
+  {
+    id: 6,
+    name: "React Step Form",
+    description: "An application form example in ReactJS.",
+    tags: ["react", "react-router", "css"],
+    demo: "https://github.com/AhmetYal/stepform",
+    github: "https://github.com/AhmetYal/stepform",
+  },
+  {
+    id: 7,
+    name: "TicTacToe Game",
+    description: "TicTacToe Game example with ReactJS.",
+    tags: ["react", "react-component", "css"],
+    demo: "https://relaxed-goldberg-d89f37.netlify.app/",
+    github: "https://github.com/AhmetYal/tictactoe",
+  },
+  {
+    id: 8,
+    name: ".Net Core Blog Demo",
+    description: "Blog website created with .Net Core.",
+    tags: [".Net Core", "Entity Frameworks", "API"],
+    demo: "https://github.com/AhmetYal/CoreDemo",
+    github: "https://github.com/AhmetYal/CoreDemo",
+  },
+  {
+    id: 9,
+    name: "MVC Project",
+    description: "Created a website with using n-tier architectur.",
+    tags: [".Net Core", "Entity Frameworks", "API"],
+    demo: "https://github.com/AhmetYal/CoreDemo",
+    github: "https://github.com/AhmetYal/CoreDemo",
+  },
 ];
