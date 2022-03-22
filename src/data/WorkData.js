@@ -3,6 +3,39 @@
 export const Work = [
   {
     id: 1,
+    name: "E commerce UI Desing Project",
+    description: "This repository ui demo for mern stack project.",
+    tags: ["react", "css", "router"],
+    demo: "https://stellular-lollipop-1ca556.netlify.app/",
+    github: "https://github.com/AhmetYal/ecommerceui",
+  },
+  {
+    id: 2,
+    name: "Blog App with MERN Stack",
+    description: "This repository contains expressjs, mongodb and reactjs",
+    tags: ["react", "mern stack"],
+    demo: "https://nifty-mestorf-3dbdae.netlify.app/",
+    github: "https://github.com/AhmetYal/blogmernapp",
+  },
+  {
+    id: 3,
+    name: "MERN WEB PAGE",
+    description:
+      "This project's frontend was bootstrapped with [Create React App] and backend, ExpressJs MongoDB and JWT used.",
+    tags: ["react", "express"],
+    demo: "https://github.com/AhmetYal/mernweb",
+    github: "https://github.com/AhmetYal/mernweb",
+  },
+  {
+    id: 4,
+    name: "NetFlix Mern Stack Project",
+    description: "This repository contains expressjs, mongodb and reactjs",
+    tags: ["react", "express"],
+    demo: "hhttps://fervent-lewin-7058fe.netlify.app/",
+    github: "https://github.com/AhmetYal/netflix-clone",
+  },
+  {
+    id: 11,
     name: "Rock Paper Scissors",
     description:
       "This repository contains code for rock,paper and scissors game in reactjs.",
@@ -11,7 +44,7 @@ export const Work = [
     github: "https://github.com/AhmetYal/rock-paper-scissors",
   },
   {
-    id: 2,
+    id: 12,
     name: "Getir Clone Page",
     description: "It is a React project of Getir's homepage with tailwindcss.",
     tags: ["react", "tailwindcss"],
@@ -19,7 +52,7 @@ export const Work = [
     github: "https://github.com/AhmetYal/getir-clone",
   },
   {
-    id: 3,
+    id: 13,
     name: "Hangman",
     description: "A famous Hangman game prototype build in ReactJS. ",
     tags: ["react", "css"],
@@ -27,7 +60,7 @@ export const Work = [
     github: "https://github.com/AhmetYal/hangman",
   },
   {
-    id: 4,
+    id: 14,
     name: "Image Gallery App",
     description: "An image search app from an API with using ReactJS.",
     tags: ["react", "api", "css"],
